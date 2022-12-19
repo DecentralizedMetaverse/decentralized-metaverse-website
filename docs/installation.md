@@ -1,3 +1,7 @@
+[Download](https://github.com/DecentralizedMetaverse/decentralized-metaverse-unity/archive/refs/heads/master.zip)
+
+[GitHub](https://github.com/DecentralizedMetaverse/decentralized-metaverse-unity)
+
 ## Required Assets
 Please import the following assets.
 

@@ -7,7 +7,7 @@ summary: test
 # Welcome to Decentralized Metaverse Project
 This project creates a decentralized metaverse.
 
-[GitHub](https://github.com/csiski2lab/decentralized-metaverse)
+[GitHub](https://github.com/DecentralizedMetaverse)
 
 
 ## How to contribute
